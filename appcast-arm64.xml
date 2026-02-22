@@ -2,8 +2,8 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>FreedomDesktop</title>
-        <link>https://acumen-desktop.github.io/Acumen-Desktop-FreedomDesktop-releases/appcast-modern.xml</link>
-        <description>FreedomDesktop Updates (Modern)</description>
+        <link>https://acumen-desktop.github.io/Acumen-Desktop-FreedomDesktop-releases/appcast-arm64.xml</link>
+        <description>FreedomDesktop Updates (arm64)</description>
         <language>en</language>
         <item>
             <title>Version 1.0 (v0.2.1)</title>
